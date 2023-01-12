@@ -1,7 +1,7 @@
 Software engineer at [Canonical](https://github.com/canonical), working on some fun cloud stuff in the [Juju](https://github.com/juju/juju) Team. Also a PhD candidate at the Indiana University Computer Science, but that's currently not going super fast.
 
 
-![Some github stats](https://github-readme-stats.vercel.app/api?username=cderici&show_icons=true&theme=radical&hide_border=true&hide=stars,contribs)
+![Some github stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=cderici&show_icons=true&theme=radical&hide_border=true&hide=stars,contribs)
 
 <a href="https://cderici.github.io/">
   <img align="left" alt="Caner's Instagram" width="22px" src="https://github.com/elax46/custom-brand-icons/blob/main/icon-svg/tabbar-home.svg" />
