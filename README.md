@@ -1,5 +1,10 @@
-Software engineer at [Canonical](https://github.com/canonical), working on some fun cloud stuff in the [Juju](https://github.com/juju/juju) Team. Also a PhD candidate at the Indiana University Computer Science.
+👋 Open to New Opportunities!
 
+Worked full-stack at [Canonical](https://github.com/canonical) for over three years in the Enterprise Cloud Engineering ([Juju](https://github.com/juju/juju) team), where I worked on complex distributed systems.
+
+Currently a post-proposal PhD candidate (all-but-dissertation) at Indiana University, specializing in Programming Languages. I also hold an MSc in Computer Science, with a specialization in NLP and Machine Learning.
+
+✨ Check out my [homepage](https://cderici.github.io/cv.html) to see more!
 
 ![Some github stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=cderici&show_icons=true&theme=radical&hide_border=true&hide=stars,contribs)
 
