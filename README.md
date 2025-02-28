@@ -6,7 +6,7 @@
 
 Worked full-stack at [Canonical](https://github.com/canonical) for over three years in the Enterprise Cloud Engineering ([Juju](https://github.com/juju/juju) team), where I worked on complex distributed systems.
 
-Currently a post-proposal PhD candidate (all-but-dissertation) at Indiana University, specializing in Programming Languages (JIT VMs). I also hold an MSc in Computer Science, with a specialization in NLP and Machine Learning.
+Currently a post-proposal PhD candidate (all-but-dissertation) at Indiana University, Bloomington, specializing in Programming Languages (tracing JIT VMs). I also have an MSc in Computer Science, with a specialization in NLP and Machine Learning.
 
 ✨ I'm open to New Opportunities! Check out my [homepage](https://cderici.github.io/index.html) to see more!
 
