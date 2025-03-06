@@ -15,7 +15,11 @@ Currently a post-proposal PhD candidate (all-but-dissertation) at Indiana Univer
 <!--START_SECTION:waka-->
 
 ```go
-No activity tracked
+YAML       39 mins         █████████▇▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁   39.46 %
+Racket     33 mins         ████████▄▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁   33.65 %
+Go         10 mins         ██▅▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁   10.19 %
+Makefile   8 mins          ██▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁   08.24 %
+HTML       5 mins          █▃▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁   05.25 %
 ```
 
 <!--END_SECTION:waka-->
