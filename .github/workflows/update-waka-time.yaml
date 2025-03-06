@@ -16,8 +16,7 @@ jobs:
         with:
           GH_TOKEN: ${{ secrets.GH_TOKEN }}
           WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }}
-          BLOCKS: ▁▂▃▄▅▆▇█
           CODE_LANG: go
           COMMIT_MESSAGE: update(waka) incoming new stats
-          SHOW_TITLE: false
+          SHOW_TITLE: true
 
