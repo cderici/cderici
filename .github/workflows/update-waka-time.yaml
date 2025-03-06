@@ -19,4 +19,5 @@ jobs:
           CODE_LANG: go
           COMMIT_MESSAGE: update(waka) incoming new stats
           SHOW_TITLE: true
+          LANG_COUNT: 10
 
