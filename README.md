@@ -12,7 +12,7 @@ I'm also a post-proposal PhD candidate (ABD) at Indiana University, Bloomington,
 
 ![Some github stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=cderici&show_icons=true&theme=radical&hide_border=true&hide=stars,contribs)
 
-📊 Weekly top-10 breakdown straight from my IDE (neovim):
+📊 Weekly development data straight from my IDEs (neovim, obsidian):
 
 <!--START_SECTION:waka-->
 
