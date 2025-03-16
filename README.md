@@ -33,7 +33,7 @@ Bash               2 mins          ░░░░░░░░░░░░░░░
 
 <!--END_SECTION:waka-->
 
-[![wakatime](https://wakatime.com/badge/user/afc0c5fb-feac-4830-8928-4c313fba9d55.svg)](https://wakatime.com/@afc0c5fb-feac-4830-8928-4c313fba9d55)
+[![wakatime](https://wakatime.com/badge/user/afc0c5fb-feac-4830-8928-4c313fba9d55.svg)](https://wakatime.com/@afc0c5fb-feac-4830-8928-4c313fba9d55) <sup>of coding (and writing) since Mar 5, 2025.</sup>
 
 <a href="https://cderici.github.io/">
   <img align="left" alt="Homepage" width="22px" src="https://github.com/elax46/custom-brand-icons/blob/main/icon-svg/tabbar-home.svg" />
