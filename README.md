@@ -17,18 +17,16 @@ I'm also a post-proposal PhD candidate (ABD) at Indiana University, Bloomington,
 <!--START_SECTION:waka-->
 
 ```go
-From: 13 March 2025 - To: 20 March 2025
+From: 14 March 2025 - To: 21 March 2025
 
-Research/writing   8 hrs 58 mins   ██████████████▒░░░░░░░░░░   57.57 %
-Go                 1 hr 43 mins    ██▓░░░░░░░░░░░░░░░░░░░░░░   11.12 %
-Python             1 hr 33 mins    ██▒░░░░░░░░░░░░░░░░░░░░░░   09.98 %
-Racket             1 hr 30 mins    ██▒░░░░░░░░░░░░░░░░░░░░░░   09.69 %
-Makefile           41 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.49 %
-Other              22 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.43 %
-reStructuredText   20 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.19 %
-Lua                12 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.35 %
-tmux               9 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.00 %
-Bash               1 min           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.16 %
+Research/writing   9 hrs 2 mins    █████████████████▓░░░░░░░   70.77 %
+Python             1 hr 34 mins    ███░░░░░░░░░░░░░░░░░░░░░░   12.38 %
+Go                 40 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.23 %
+Racket             29 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.79 %
+Other              22 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.97 %
+reStructuredText   20 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.67 %
+Lua                12 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.65 %
+Makefile           4 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.55 %
 ```
 
 <!--END_SECTION:waka-->
