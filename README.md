@@ -1,4 +1,4 @@
-👋 Hi! I'm Caner, I'm a software engineer, and about to finish my PhD in Computer Science.
+👋 Hi! I'm Caner([*](https://cderici.github.io/docs/audio/name-pronunciation.opus)), I'm a software engineer, and about to finish my PhD in Computer Science.
 
 🧙‍♂️ I have expertise in compilers and programming languages, and distributed systems.
 
