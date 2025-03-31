@@ -17,17 +17,18 @@ I'm also a post-proposal PhD candidate (ABD) at Indiana University, Bloomington,
 <!--START_SECTION:waka-->
 
 ```go
-From: 23 March 2025 - To: 30 March 2025
+From: 24 March 2025 - To: 31 March 2025
 
-Research/writing   4 hrs 2 mins    ██████████▒░░░░░░░░░░░░░░   41.73 %
-Go                 2 hrs 45 mins   ███████░░░░░░░░░░░░░░░░░░   28.56 %
-JavaScript         2 hrs 12 mins   █████▓░░░░░░░░░░░░░░░░░░░   22.81 %
-Racket             15 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.69 %
-Bash               9 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.56 %
-Lua                8 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.48 %
-Python             5 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.91 %
-CSS                1 min           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.24 %
-Makefile           0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.03 %
+Research/writing   3 hrs 58 mins   ██████████▒░░░░░░░░░░░░░░   41.51 %
+JavaScript         2 hrs 37 mins   ███████░░░░░░░░░░░░░░░░░░   27.39 %
+Go                 1 hr 50 mins    ████▓░░░░░░░░░░░░░░░░░░░░   19.16 %
+Racket             15 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.71 %
+Docker             15 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.61 %
+Bash               9 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.57 %
+YAML               8 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.55 %
+Lua                8 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.49 %
+Python             5 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.92 %
+Makefile           4 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.85 %
 ```
 
 <!--END_SECTION:waka-->
