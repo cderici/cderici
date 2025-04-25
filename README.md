@@ -17,15 +17,16 @@ I'm also a post-proposal PhD candidate (ABD) at Indiana University, Bloomington,
 <!--START_SECTION:waka-->
 
 ```go
-From: 17 April 2025 - To: 24 April 2025
+From: 18 April 2025 - To: 25 April 2025
 
-Python             11 hrs 39 mins  ███████████▒░░░░░░░░░░░░░   45.43 %
-Research/writing   8 hrs 26 mins   ████████▒░░░░░░░░░░░░░░░░   32.92 %
-Go                 2 hrs 44 mins   ██▓░░░░░░░░░░░░░░░░░░░░░░   10.69 %
-Racket             1 hr 21 mins    █▒░░░░░░░░░░░░░░░░░░░░░░░   05.27 %
-C                  1 hr 1 min      █░░░░░░░░░░░░░░░░░░░░░░░░   03.98 %
-salt               19 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.25 %
-Singularity        6 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.42 %
+Python             13 hrs 5 mins   ███████████░░░░░░░░░░░░░░   44.24 %
+Research/writing   9 hrs 44 mins   ████████▒░░░░░░░░░░░░░░░░   32.92 %
+Go                 2 hrs 44 mins   ██▒░░░░░░░░░░░░░░░░░░░░░░   09.27 %
+Racket             1 hr 55 mins    █▓░░░░░░░░░░░░░░░░░░░░░░░   06.51 %
+C                  1 hr 4 mins     █░░░░░░░░░░░░░░░░░░░░░░░░   03.64 %
+salt               34 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.94 %
+Singularity        22 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.25 %
+Text               3 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.18 %
 Scheme             0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.02 %
 Lua                0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.02 %
 ```
