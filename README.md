@@ -4,7 +4,7 @@
 
 🛠️ My tech stack includes: Go, Python, Racket, C/C++, SQL/NoSQL, k8s, Docker, LXD, and more.
 
-I have 3 YoE at [Canonical](https://github.com/canonical) in the Enterprise Cloud Engineering ([Juju](https://github.com/juju/juju) team), on distributed orchestration of large-scale cloud workloads (Golang, Python).
+I have three yoe at [Canonical](https://github.com/canonical) in the Enterprise Cloud Engineering ([Juju](https://github.com/juju/juju) team), on distributed orchestration of large-scale cloud workloads (Golang, Python).
 
 I'm also a post-proposal PhD candidate (abd) at Indiana University, Bloomington, specialized in Programming Languages & Compilers, planning to defend early Sep, 2025 ([dissertation](https://github.com/cderici/dissertation) in progress).
 
