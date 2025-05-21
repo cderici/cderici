@@ -1,14 +1,16 @@
-👋 Hi! I'm Caner([*](https://cderici.github.io/docs/audio/name-pronunciation.opus)), I'm a software engineer, and about to finish my PhD in Computer Science.
+👋 Hi! I'm Caner([*](https://cderici.github.io/docs/audio/name-pronunciation.opus)), a software engineer, and about-to-be a PhD in Computer Science.
 
-🧙‍♂️ I have expertise in compilers and programming languages, and distributed systems.
+🧙‍♂️ I have expertise in compilers & programming languages, and distributed systems.
 
 🛠️ My tech stack includes: Go, Python, Racket, C/C++, SQL/NoSQL, k8s, Docker, LXD, and more.
 
-Worked full-stack at [Canonical](https://github.com/canonical) for over three years in the Enterprise Cloud Engineering ([Juju](https://github.com/juju/juju) team), where I worked on orchestration in distributed systems for large scale cloud workloads (Golang, Python).
+I have 3 yoe at [Canonical](https://github.com/canonical) in the Enterprise Cloud Engineering ([Juju](https://github.com/juju/juju) team), on distributed orchestration of large-scale cloud workloads (Golang, Python).
 
-I'm also a post-proposal PhD candidate (ABD) at Indiana University, Bloomington, specializing in Programming Languages (meta-tracing JIT VMs). I also have an MSc in Computer Science, with a specialization in NLP and Machine Learning.
+I'm also a post-proposal PhD candidate (abd) at Indiana University, Bloomington, specialized in Programming Languages & Compilers, planning to defend early Sep, 2025 ([dissertation](https://github.com/cderici/dissertation) in progress).
 
-✨ I'm currently open to new opportunities! Check out my [homepage](https://cderici.github.io/index.html) to see more!
+I have also an MSc in Computer Science, on NLP & Machine Learning.
+
+✨ I'm open to new opportunities! Check out my [homepage](https://cderici.github.io/index.html) to see more!
 
 ![Some github stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=cderici&show_icons=true&theme=radical&hide_border=true&hide=stars,contribs)
 
