@@ -4,13 +4,13 @@
 
 🛠️ My tech stack includes: Go, Python, Racket, C/C++, SQL/NoSQL, k8s, Docker, LXD, and more.
 
-I have three yoe at [Canonical](https://github.com/canonical) in the Enterprise Cloud Engineering ([Juju](https://github.com/juju/juju) team), on distributed orchestration of large-scale cloud workloads (Golang, Python).
+I have 3 years of experience at [Canonical](https://github.com/canonical) in the Enterprise Cloud Engineering ([Juju](https://github.com/juju/juju) team), on distributed orchestration of large-scale cloud workloads (Golang, Python).
 
 I'm also a post-proposal PhD candidate (abd) at Indiana University, Bloomington, specialized in Programming Languages & Compilers, planning to defend early Sep, 2025 ([dissertation](https://github.com/cderici/dissertation) in progress).
 
 I have also an MSc in Computer Science, on NLP & Machine Learning.
 
-✨ I'm open to new opportunities! Check out my [homepage](https://cderici.github.io/index.html) to see more!
+✨ I'm open to new opportunities! Check out my [links](https://dericilab.live/), or jump straight to my [resume](https://cderici.github.io/docs/CanerDerici_Resume.pdf) to see more!
 
 ![Some github stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=cderici&show_icons=true&theme=radical&hide_border=true&hide=stars,contribs)
 
