@@ -19,15 +19,14 @@ I have also an MSc in Computer Science, on NLP & Machine Learning.
 <!--START_SECTION:waka-->
 
 ```go
-From: 11 June 2025 - To: 18 June 2025
+From: 12 June 2025 - To: 19 June 2025
 
-TeX                13 hrs 17 mins  █████████░░░░░░░░░░░░░░░░   36.33 %
-Research/writing   11 hrs 54 mins  ████████░░░░░░░░░░░░░░░░░   32.54 %
-Python             7 hrs 46 mins   █████▒░░░░░░░░░░░░░░░░░░░   21.23 %
-Racket             2 hrs 48 mins   ██░░░░░░░░░░░░░░░░░░░░░░░   07.69 %
-Makefile           30 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.41 %
-JSON               8 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.40 %
-Bash               5 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.24 %
+Research/writing   11 hrs 22 mins  ████████▒░░░░░░░░░░░░░░░░   32.93 %
+TeX                11 hrs 16 mins  ████████░░░░░░░░░░░░░░░░░   32.62 %
+Python             8 hrs 45 mins   ██████▒░░░░░░░░░░░░░░░░░░   25.33 %
+Racket             2 hrs 34 mins   ██░░░░░░░░░░░░░░░░░░░░░░░   07.46 %
+Makefile           21 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.05 %
+JSON               8 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.42 %
 conf               2 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.14 %
 BibTeX             0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.03 %
 Other              0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.01 %
