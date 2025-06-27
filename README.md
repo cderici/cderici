@@ -12,7 +12,7 @@ I have also an MSc in Computer Science, on NLP & Machine Learning.
 
 ✨ I'm open to new opportunities! Check out my [links](https://dericilab.live/), or jump straight to my [resume](https://cderici.github.io/docs/CanerDerici_Resume.pdf) to see more!
 
-![Some github stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=cderici&show_icons=true&theme=radical&hide_border=true&hide=stars,contribs)
+![Some github stats](https://github-readme-stats.vercel.app/api?username=cderici&show_icons=true&theme=radical&hide_border=true&hide=stars,contribs)
 
 📊 Weekly development data straight from my IDEs (neovim, obsidian):
 
