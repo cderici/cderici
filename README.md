@@ -14,7 +14,7 @@ I have also an MSc in Computer Science, on NLP & Machine Learning.
 
 ![Some github stats](https://github-readme-stats.vercel.app/api?username=cderici&show_icons=true&theme=radical&hide_border=true&hide=stars,contribs)
 
-📊 Weekly development data straight from my IDEs (neovim, obsidian):
+📊 Weekly development data straight from my IDEs (neovim, obsidian, vscode):
 
 <!--START_SECTION:waka-->
 
