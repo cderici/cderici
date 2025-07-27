@@ -19,7 +19,7 @@ I have also an MSc in Computer Science, on NLP & Machine Learning.
 <!--START_SECTION:waka-->
 
 ```go
-From: 19 July 2025 - To: 26 July 2025
+From: 20 July 2025 - To: 27 July 2025
 
 TeX                12 hrs 39 mins  ███████████▓░░░░░░░░░░░░░   47.19 %
 Research/writing   8 hrs 10 mins   ███████▓░░░░░░░░░░░░░░░░░   30.45 %
