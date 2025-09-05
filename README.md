@@ -19,13 +19,13 @@ I have also an MSc in Computer Science, on NLP & Machine Learning.
 <!--START_SECTION:waka-->
 
 ```go
-From: 28 August 2025 - To: 04 September 2025
+From: 29 August 2025 - To: 05 September 2025
 
-Research/writing   13 hrs 56 mins  █████████████████████▒░░░   85.96 %
-TeX                2 hrs 9 mins    ███▒░░░░░░░░░░░░░░░░░░░░░   13.30 %
-Other              4 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.46 %
-Racket             2 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.23 %
-Markdown           0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.07 %
+Research/writing   11 hrs 1 min    █████████████████████░░░░   84.17 %
+TeX                1 hr 57 mins    ███▓░░░░░░░░░░░░░░░░░░░░░   14.91 %
+Other              4 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.57 %
+Racket             2 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.28 %
+Markdown           0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.08 %
 ```
 
 <!--END_SECTION:waka-->
