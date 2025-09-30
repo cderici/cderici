@@ -1,18 +1,16 @@
-👋 Hi! I'm Caner([*](https://cderici.github.io/docs/audio/name-pronunciation.opus)), a software engineer, and a PhD in Computer Science.
+👋 Hi! I'm Caner([*](https://cderici.github.io/docs/audio/name-pronunciation.opus)), a software engineer, and a PhD computer scientist.
 
-🧙‍♂️ I specialize in compilers & programming languages, and I have three years of industry experience in distributed systems.
+🧙‍♂️ I specialize in compilers & programming languages, and I have three years of work experience in distributed orchestration at scale.
 
-🛠️ My tech stack includes: Go, Python, Racket, C/C++, SQL/NoSQL, k8s, Docker, LXD, and more.
+🛠️ My tech stack includes: Go, Python, Racket, C++, SQL/NoSQL, k8s, Docker, LXD, and more.
 
-I received my PhD at Indiana University, Bloomington, specializing in Compilers & in Programming Languages. My [dissertation](https://github.com/cderici/dissertation) is titled "Self-Hosting Functional Programming Languages on Meta-Tracing JIT Compilers".
+I received my doctorate at [IU Bloomington](https://sice.indiana.edu/), in computer science, specializing in compilers & programming languages, minoring in logic ([dissertation](https://github.com/cderici/dissertation)). I also have a MSc in computer science, on NLP & Machine Learning.
 
-I have 3 years of experience at [Canonical](https://github.com/canonical) in the Enterprise Cloud Engineering ([Juju](https://github.com/juju/juju) team), on distributed orchestration of large-scale cloud workloads (Golang, Python).
+I joined [Canonical](https://github.com/canonical) to understand and practice distributed orchestration at scale. I worked there about three years as a part of the [Juju](https://github.com/juju/juju) team.
 
-I also have a MSc in Computer Science, on NLP & Machine Learning.
+<br>
 
-✨ I'm open to new opportunities! Check out my [links](https://dericilab.live/), or jump straight to my [resume](https://cderici.github.io/docs/CanerDerici_Resume.pdf) to see more!
-
-![Some github stats](https://github-readme-stats.vercel.app/api?username=cderici&show_icons=true&theme=radical&hide_border=true&hide=stars,contribs)
+✨ Now I'm open to new opportunities! Check out my [links](https://dericilab.live/), or jump straight to my [resume](https://home.dericilab.live/assets/docs/CanerDerici_Resume.pdf) to see more! <br><br>
 
 📊 Weekly development data straight from my IDEs (neovim, obsidian, vscode):
 
@@ -36,6 +34,15 @@ gitignore    3 mins          ░░░░░░░░░░░░░░░░░
 <!--END_SECTION:waka-->
 
 [![wakatime](https://wakatime.com/badge/user/afc0c5fb-feac-4830-8928-4c313fba9d55.svg)](https://wakatime.com/@afc0c5fb-feac-4830-8928-4c313fba9d55)
+
+
+<!-- 
+
+![Some github stats](https://github-readme-stats.vercel.app/api?username=cderici&show_icons=true&theme=radical&hide_border=true&hide=stars,contribs) 
+
+-->
+
+<br>
 
 <a href="https://cderici.github.io/">
   <img align="left" alt="Homepage" width="22px" src="https://github.com/elax46/custom-brand-icons/blob/main/icon-svg/tabbar-home.svg" />
