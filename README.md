@@ -21,16 +21,16 @@ I also have a MSc in Computer Science, on NLP & Machine Learning.
 ```go
 From: 22 September 2025 - To: 29 September 2025
 
-Research/writing   8 hrs 31 mins   ██████████████████░░░░░░░   71.71 %
-TeX                1 hr 7 mins     ██▒░░░░░░░░░░░░░░░░░░░░░░   09.41 %
-TOML               46 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   06.45 %
-Nunjucks           39 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.50 %
-JSON               14 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.07 %
-Markdown           11 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.65 %
-JavaScript         10 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.44 %
-Makefile           5 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.71 %
-CSS                3 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.54 %
-Other              2 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.40 %
+Obsidian     8 hrs 28 mins   █████████████████▓░░░░░░░   71.05 %
+TeX          1 hr 7 mins     ██▒░░░░░░░░░░░░░░░░░░░░░░   09.40 %
+TOML         46 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   06.44 %
+Nunjucks     44 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   06.20 %
+JSON         14 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.06 %
+JavaScript   10 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.44 %
+Markdown     8 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.16 %
+Makefile     5 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.71 %
+CSS          3 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.54 %
+gitignore    3 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.48 %
 ```
 
 <!--END_SECTION:waka-->
