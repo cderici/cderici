@@ -1,6 +1,6 @@
 👋 Hi! I'm Caner([*](https://cderici.github.io/docs/audio/name-pronunciation.opus)), a software engineer, and a PhD computer scientist.
 
-🧙‍♂️ I specialize in compilers & programming languages, and I have three years of work experience in distributed orchestration at scale.
+🧙‍♂️ I specialize in compilers & programming languages, and I have work experience in distributed orchestration at scale.
 
 🛠️ My tech stack includes: Go, Python, Racket, C++, SQL/NoSQL, k8s, Docker, LXD, and more.
 
