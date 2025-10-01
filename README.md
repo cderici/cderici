@@ -17,18 +17,18 @@ I joined [Canonical](https://github.com/canonical) to understand and practice di
 <!--START_SECTION:waka-->
 
 ```go
-From: 22 September 2025 - To: 29 September 2025
+From: 23 September 2025 - To: 30 September 2025
 
-Obsidian     8 hrs 28 mins   █████████████████▓░░░░░░░   71.05 %
-TeX          1 hr 7 mins     ██▒░░░░░░░░░░░░░░░░░░░░░░   09.40 %
-TOML         46 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   06.44 %
-Nunjucks     44 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   06.20 %
-JSON         14 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.06 %
-JavaScript   10 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.44 %
-Markdown     8 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.16 %
-Makefile     5 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.71 %
-CSS          3 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.54 %
-gitignore    3 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.48 %
+Obsidian     7 hrs 14 mins   ████████████████░░░░░░░░░   64.11 %
+TeX          1 hr 14 mins    ██▓░░░░░░░░░░░░░░░░░░░░░░   11.06 %
+Nunjucks     46 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   06.83 %
+TOML         46 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   06.80 %
+Lua          22 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.29 %
+C++          17 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.58 %
+CMake        16 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.42 %
+Markdown     8 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.23 %
+gitignore    3 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.51 %
+Makefile     2 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.42 %
 ```
 
 <!--END_SECTION:waka-->
