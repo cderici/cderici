@@ -6,7 +6,7 @@
 
 I received my doctorate at [IU Bloomington](https://sice.indiana.edu/), in computer science, specializing in compilers & programming languages, minoring in logic ([dissertation](https://github.com/cderici/dissertation)). I also have a MSc in computer science, on NLP & Machine Learning.
 
-I joined [Canonical](https://github.com/canonical) to understand and practice distributed orchestration at scale. I worked there about three years as a part of the [Juju](https://github.com/juju/juju) team.
+I joined [Canonical](https://github.com/canonical) to understand distributed orchestration at scale, and I loved it! I spent about three years on the [Juju](https://github.com/juju/juju) team. Check out my [homelab page](https://home.dericilab.live/homelab/) to see some cool stuff I've built and learned since then.
 
 <br>
 
