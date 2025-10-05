@@ -17,18 +17,18 @@ I joined [Canonical](https://github.com/canonical) to understand distributed orc
 <!--START_SECTION:waka-->
 
 ```go
-From: 27 September 2025 - To: 04 October 2025
+From: 28 September 2025 - To: 05 October 2025
 
-Obsidian     7 hrs 42 mins   ██████████▒░░░░░░░░░░░░░░   41.25 %
-C++          3 hrs 14 mins   ████▒░░░░░░░░░░░░░░░░░░░░   17.35 %
-Nunjucks     2 hrs 27 mins   ███▒░░░░░░░░░░░░░░░░░░░░░   13.18 %
-CMake        59 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.31 %
-CSS          59 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.27 %
-Markdown     49 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.43 %
-HTML         48 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.28 %
-TOML         47 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.24 %
-Lua          22 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.00 %
-TeX          11 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.06 %
+Obsidian     7 hrs 22 mins   ██████████░░░░░░░░░░░░░░░   40.17 %
+C++          3 hrs 14 mins   ████▒░░░░░░░░░░░░░░░░░░░░   17.67 %
+Nunjucks     2 hrs 27 mins   ███▒░░░░░░░░░░░░░░░░░░░░░   13.42 %
+CMake        59 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.40 %
+CSS          59 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.36 %
+Markdown     49 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.51 %
+HTML         48 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.36 %
+TOML         47 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.32 %
+Lua          22 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.04 %
+TeX          11 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.08 %
 ```
 
 <!--END_SECTION:waka-->
