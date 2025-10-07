@@ -1,16 +1,16 @@
-👋 Hi! I'm Caner([*](https://cderici.github.io/docs/audio/name-pronunciation.opus)), a software engineer, and a PhD computer scientist.
+👋 Hi! I'm Caner([*](https://cderici.github.io/docs/audio/name-pronunciation.opus)), a PhD computer scientist and software engineer with 5 years of industry experience.
 
-🧙‍♂️ I specialize in compilers & programming languages, and I have work experience in distributed orchestration at scale.
+🧙‍♂️ I specialize in compilers & programming languages, with 3 years of experience in distributed orchestration at scale.
 
-🛠️ My tech stack includes: Go, Python, Racket, C++, SQL/NoSQL, k8s, Docker, LXD, and more.
+🛠️ My tech stack includes: Go, C++, Python, Racket, SQL/NoSQL, Kubernetes, Docker, LXD, and more.
 
-I received my doctorate at [IU Bloomington](https://sice.indiana.edu/), in computer science, specializing in compilers & programming languages, minoring in logic ([dissertation](https://github.com/cderici/dissertation)). I also have a MSc in computer science, on NLP & Machine Learning.
+I earned my doctorate in computer science at [Indiana University Bloomington](https://sice.indiana.edu/), specializing in compilers & programming languages, with a minor in logic ([dissertation](https://github.com/cderici/dissertation)). I also hold an MSc in computer science, focused on NLP & Machine Learning.
 
-I joined [Canonical](https://github.com/canonical) to understand distributed orchestration at scale, and I loved it! I spent about three years on the [Juju](https://github.com/juju/juju) team. Check out my [homelab page](https://home.dericilab.live/homelab/) to see some cool stuff I've built and learned since then.
+I joined [Canonical](https://github.com/canonical) to better understand distributed orchestration at scale, and I loved it! I worked for about three years as a part of the [Juju](https://github.com/juju/juju) team. Check out my [homelab page](https://home.dericilab.live/homelab/) to see some cool stuff I've built and learned since then.
 
 <br>
 
-✨ Now I'm open to new opportunities! Check out my [links](https://dericilab.live/), or jump straight to my [resume](https://home.dericilab.live/assets/docs/CanerDerici_Resume.pdf) to see more! <br><br>
+✨ I'm now open to new opportunities! Check out my [links](https://dericilab.live/), or jump straight to my [resume](https://home.dericilab.live/assets/docs/CanerDerici_Resume.pdf) to see more! <br><br>
 
 📊 Weekly development data straight from my IDEs (neovim, obsidian, vscode):
 
