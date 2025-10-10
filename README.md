@@ -17,18 +17,18 @@ I joined [Canonical](https://github.com/canonical) to better understand distribu
 <!--START_SECTION:waka-->
 
 ```go
-From: 02 October 2025 - To: 09 October 2025
+From: 03 October 2025 - To: 10 October 2025
 
-Obsidian     6 hrs 19 mins   ███████████▓░░░░░░░░░░░░░   46.34 %
-C++          3 hrs 33 mins   ██████▓░░░░░░░░░░░░░░░░░░   26.05 %
-Markdown     1 hr 24 mins    ██▓░░░░░░░░░░░░░░░░░░░░░░   10.32 %
-HTML         48 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.91 %
-Nunjucks     33 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.15 %
-CSS          32 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.99 %
-CMake        12 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.50 %
-TOML         5 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.65 %
-TeX          3 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.46 %
-Lua          3 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.38 %
+Obsidian     6 hrs 41 mins   ████████████▓░░░░░░░░░░░░   50.92 %
+C++          3 hrs 29 mins   ██████▓░░░░░░░░░░░░░░░░░░   26.59 %
+Markdown     1 hr 24 mins    ██▓░░░░░░░░░░░░░░░░░░░░░░   10.71 %
+HTML         37 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   04.78 %
+CSS          24 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.11 %
+Nunjucks     16 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.10 %
+TOML         5 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.67 %
+TeX          3 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.47 %
+Lua          3 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.39 %
+gitignore    1 min           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.13 %
 ```
 
 <!--END_SECTION:waka-->
