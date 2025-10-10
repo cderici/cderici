@@ -1,4 +1,4 @@
-👋 Hi! I'm Caner([*](https://cderici.github.io/docs/audio/name-pronunciation.opus)), a PhD computer scientist and software engineer with 5 years of industry experience.
+👋 Hi! I'm Caner([*](https://home.dericilab.live/assets/audio/name-pronunciation.opus)), a PhD computer scientist and software engineer with 5 years of industry experience.
 
 🧙‍♂️ I specialize in compilers & programming languages, with 3 years of experience in distributed orchestration at scale.
 
