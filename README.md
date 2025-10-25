@@ -17,18 +17,18 @@ I joined [Canonical](https://github.com/canonical) to better understand distribu
 <!--START_SECTION:waka-->
 
 ```go
-From: 17 October 2025 - To: 24 October 2025
+From: 18 October 2025 - To: 25 October 2025
 
-C++           10 hrs          █████████████░░░░░░░░░░░░   51.87 %
-Obsidian      5 hrs 32 mins   ███████▒░░░░░░░░░░░░░░░░░   28.77 %
-Nunjucks      2 hrs 30 mins   ███▒░░░░░░░░░░░░░░░░░░░░░   12.97 %
-Makefile      39 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.38 %
-CSS           20 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.74 %
-C             3 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.31 %
-conf          3 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.29 %
-gitignore     3 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.28 %
-JSON          2 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.20 %
-Objective-C   2 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.19 %
+C++           10 hrs          ██████████████▒░░░░░░░░░░   57.16 %
+Obsidian      3 hrs 45 mins   █████▒░░░░░░░░░░░░░░░░░░░   21.51 %
+Nunjucks      2 hrs 30 mins   ███▓░░░░░░░░░░░░░░░░░░░░░   14.29 %
+Makefile      39 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.73 %
+CSS           20 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.91 %
+C             3 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.34 %
+conf          3 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.32 %
+gitignore     3 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.31 %
+JSON          2 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.23 %
+Objective-C   2 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.20 %
 ```
 
 <!--END_SECTION:waka-->
