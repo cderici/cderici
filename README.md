@@ -2,13 +2,13 @@
 
 🧙‍♂️ I specialize in compilers & programming languages, with 3 years of experience in distributed orchestration at scale.
 
-I earned my doctorate in computer science at [Indiana University Bloomington](https://sice.indiana.edu/), specializing in compilers, with a minor in logic ([dissertation](https://github.com/cderici/dissertation)). I also hold an MSc in computer science, focused on NLP & Machine Learning.
+I earned my doctorate in computer science at [Indiana University Bloomington](https://sice.indiana.edu/), specializing in compilers ([dissertation](https://github.com/cderici/dissertation/releases/download/latest-pdf/thesis.pdf)), with a minor in logic. I also hold an MSc in computer science, focused on NLP & Machine Learning.
 
 I joined [Canonical](https://github.com/canonical) to better understand distributed orchestration at scale. I worked for about three years as a part of the [Juju](https://github.com/juju/juju) team. Check out my [homelab page](https://home.dericilab.live/homelab/) to see some cool stuff I've built and learned since then.
 
 <br>
 
-🛠️ My tech skills include: C++, LLVM, Go, Python, Racket/Scheme, SQL/NoSQL, Kubernetes, Docker, LXD, and more.
+🛠️ My tech skills include: C++, Go, Python, Racket/Scheme, LLVM, Kubernetes, Docker, LXD, Sql/NoSql and more.
 
 ✨ I'm now open to new opportunities! Check out my [links](https://dericilab.live/), or jump straight to my [resume](https://github.com/cderici/resume/releases/download/latest-pdf/pl.pdf) to see more! <br><br>
 
