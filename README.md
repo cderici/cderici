@@ -2,15 +2,15 @@
 
 🧙‍♂️ I specialize in compilers & programming languages, with 3 years of experience in distributed orchestration at scale.
 
-🛠️ My tech stack includes: Go, C++, Python, Racket, SQL/NoSQL, Kubernetes, Docker, LXD, and more.
+I earned my doctorate in computer science at [Indiana University Bloomington](https://sice.indiana.edu/), specializing in compilers, with a minor in logic ([dissertation](https://github.com/cderici/dissertation)). I also hold an MSc in computer science, focused on NLP & Machine Learning.
 
-I earned my doctorate in computer science at [Indiana University Bloomington](https://sice.indiana.edu/), specializing in compilers & programming languages, with a minor in logic ([dissertation](https://github.com/cderici/dissertation)). I also hold an MSc in computer science, focused on NLP & Machine Learning.
-
-I joined [Canonical](https://github.com/canonical) to better understand distributed orchestration at scale, and I loved it! I worked for about three years as a part of the [Juju](https://github.com/juju/juju) team. Check out my [homelab page](https://home.dericilab.live/homelab/) to see some cool stuff I've built and learned since then.
+I joined [Canonical](https://github.com/canonical) to better understand distributed orchestration at scale. I worked for about three years as a part of the [Juju](https://github.com/juju/juju) team. Check out my [homelab page](https://home.dericilab.live/homelab/) to see some cool stuff I've built and learned since then.
 
 <br>
 
-✨ I'm now open to new opportunities! Check out my [links](https://dericilab.live/), or jump straight to my [resume](https://home.dericilab.live/assets/docs/CanerDerici_Resume.pdf) to see more! <br><br>
+🛠️ My tech skills include: C++, LLVM, Go, Python, Racket/Scheme, SQL/NoSQL, Kubernetes, Docker, LXD, and more.
+
+✨ I'm now open to new opportunities! Check out my [links](https://dericilab.live/), or jump straight to my [resume](https://github.com/cderici/resume/releases/download/latest-pdf/pl.pdf) to see more! <br><br>
 
 📊 Weekly development data straight from my IDEs (neovim, obsidian, vscode):
 
