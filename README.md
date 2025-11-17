@@ -17,18 +17,18 @@ I joined [Canonical](https://github.com/canonical) to better understand distribu
 <!--START_SECTION:waka-->
 
 ```go
-From: 09 November 2025 - To: 16 November 2025
+From: 10 November 2025 - To: 17 November 2025
 
-Obsidian    12 hrs 6 mins   ███████████████░░░░░░░░░░   60.12 %
-C++         4 hrs 21 mins   █████▒░░░░░░░░░░░░░░░░░░░   21.68 %
-Markdown    1 hr 16 mins    █▓░░░░░░░░░░░░░░░░░░░░░░░   06.33 %
-TeX         1 hr 3 mins     █▒░░░░░░░░░░░░░░░░░░░░░░░   05.25 %
-C           54 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.51 %
-LLVM        9 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.76 %
-YAML        8 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.74 %
-Nunjucks    4 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.41 %
-Makefile    1 min           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.09 %
-dot         0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.06 %
+Obsidian      11 hrs 5 mins   █████████████▒░░░░░░░░░░░   53.31 %
+C++           5 hrs 49 mins   ███████░░░░░░░░░░░░░░░░░░   28.01 %
+Markdown      1 hr 22 mins    █▓░░░░░░░░░░░░░░░░░░░░░░░   06.59 %
+C             1 hr 6 mins     █▒░░░░░░░░░░░░░░░░░░░░░░░   05.31 %
+TeX           50 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.03 %
+LLVM          9 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.74 %
+YAML          7 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.61 %
+Objective-C   6 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.50 %
+Makefile      5 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.40 %
+Nunjucks      4 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.40 %
 ```
 
 <!--END_SECTION:waka-->
