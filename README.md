@@ -17,11 +17,11 @@ I joined [Canonical](https://github.com/canonical) to better understand distribu
 <!--START_SECTION:waka-->
 
 ```go
-From: 06 December 2025 - To: 13 December 2025
+From: 07 December 2025 - To: 14 December 2025
 
-Obsidian   7 hrs 20 mins   ██████████████████▓░░░░░░   74.03 %
-C++        2 hrs 25 mins   ██████░░░░░░░░░░░░░░░░░░░   24.51 %
-CMake      8 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.35 %
+Obsidian   8 hrs 46 mins   ███████████████████▒░░░░░   77.32 %
+C++        2 hrs 25 mins   █████▒░░░░░░░░░░░░░░░░░░░   21.40 %
+CMake      8 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.18 %
 C          0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.06 %
 Makefile   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.04 %
 ```
