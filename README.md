@@ -17,12 +17,13 @@ I got recruited by [Canonical](https://github.com/canonical) for a designing and
 <!--START_SECTION:waka-->
 
 ```go
-From: 10 January 2026 - To: 17 January 2026
+From: 11 January 2026 - To: 18 January 2026
 
-Obsidian   7 hrs 12 mins   █████████████████████░░░░   83.83 %
-C++        55 mins         ██▓░░░░░░░░░░░░░░░░░░░░░░   10.84 %
-Python     22 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.38 %
-TeX        4 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.95 %
+Obsidian   3 hrs 57 mins   ███████████████░░░░░░░░░░   60.25 %
+TeX        1 hr 14 mins    ████▓░░░░░░░░░░░░░░░░░░░░   18.97 %
+C++        58 mins         ███▓░░░░░░░░░░░░░░░░░░░░░   14.80 %
+Python     22 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.75 %
+Other      0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.23 %
 ```
 
 <!--END_SECTION:waka-->
