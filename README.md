@@ -17,9 +17,14 @@ I got recruited by [Canonical](https://github.com/canonical) for designing and d
 <!--START_SECTION:waka-->
 
 ```go
-From: 27 January 2026 - To: 03 February 2026
+From: 28 January 2026 - To: 04 February 2026
 
-Obsidian   3 hrs 46 mins   █████████████████████████   100.00 %
+Obsidian       5 hrs 8 mins    █████████████████████░░░░   84.50 %
+Lua            34 mins         ██▒░░░░░░░░░░░░░░░░░░░░░░   09.37 %
+Bash           13 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.79 %
+Other          6 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.92 %
+Desktop file   1 min           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.32 %
+Text           0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.10 %
 ```
 
 <!--END_SECTION:waka-->
