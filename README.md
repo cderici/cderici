@@ -17,14 +17,16 @@ I got recruited by [Canonical](https://github.com/canonical) for designing and d
 <!--START_SECTION:waka-->
 
 ```go
-From: 28 January 2026 - To: 04 February 2026
+From: 29 January 2026 - To: 05 February 2026
 
-Obsidian       5 hrs 8 mins    █████████████████████░░░░   84.50 %
-Lua            34 mins         ██▒░░░░░░░░░░░░░░░░░░░░░░   09.37 %
-Bash           13 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.79 %
-Other          6 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.92 %
-Desktop file   1 min           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.32 %
-Text           0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.10 %
+Obsidian       6 hrs 57 mins   ████████████████████▓░░░░   82.23 %
+Lua            34 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   06.73 %
+JSON           27 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.32 %
+Bash           13 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.72 %
+Desktop file   7 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.55 %
+Other          6 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.38 %
+Text           0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.07 %
+Image (png)    0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.01 %
 ```
 
 <!--END_SECTION:waka-->
