@@ -1,8 +1,8 @@
 👋 Hi! I'm Caner[*](https://home.dericilab.live/assets/audio/name-pronunciation.opus), a PhD computer scientist and software engineer with 5 years of industry experience.
 
-🧙‍♂️ I specialize in compilers & programming languages, with 3 years of experience in distributed orchestration at scale, and a master's degree in machine learning.
+🧙‍♂️ I like langauges, optimizing compilers and fast runtimes. My PhD is in compilers. I also have 3 years of experience in distributed orchestration at scale, and a master's degree in machine learning.
 
-🛠️ I speak C++, Python, Go, Racket, and some more languages. I compute on mostly CPU, but also on GPU (cuda, ptx), on containers (lxd, docker) and cloud as well (kubernetes). I like optimizing compilers and fast runtimes.
+🛠️ I speak C++, Python, Go, Racket, and some more languages. I compute on mostly CPU, but also on GPU (cuda, ptx), on containers (lxd, docker) and cloud as well (kubernetes). 
 
 ✨ I'm open to new opportunities! Check out my [links](https://dericilab.live/), or jump straight to my [resume](https://github.com/cderici/resume/releases/download/latest-pdf/pl.pdf) to see more! <br><br>
 
