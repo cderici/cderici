@@ -1,16 +1,10 @@
-👋 Hi! I'm Caner([*](https://home.dericilab.live/assets/audio/name-pronunciation.opus)), a PhD computer scientist and software engineer with 5 years of industry experience.
+👋 Hi! I'm Caner[*](https://home.dericilab.live/assets/audio/name-pronunciation.opus), a PhD computer scientist and software engineer with 5 years of industry experience.
 
-🧙‍♂️ I specialize in compilers & programming languages, with 3 years of experience in distributed orchestration at scale.
+🧙‍♂️ I specialize in compilers & programming languages, with 3 years of experience in distributed orchestration at scale, and a master's degree in machine learning.
 
-I earned my doctorate in computer science at [IU Bloomington](https://sice.indiana.edu/), specializing in compilers ([dissertation](https://github.com/cderici/dissertation/releases/download/latest-pdf/thesis.pdf)), with a minor in logic. I also hold an MSc in computer science, focused on Machine Learning.
+🛠️ I speak C++, Python, Go, Racket, and some more languages. I compute on mostly CPU, but also on GPU (cuda, ptx), on containers (lxd, docker) and cloud as well (kubernetes). I like optimizing compilers and fast runtimes.
 
-I got recruited by [Canonical](https://github.com/canonical) for designing and developing a scripting DSL for (CPU & memory) restricted computations, where I worked on building a compiler on top of a modified custom Lua interpreter in Go. I worked for about three years as a part of the [Juju](https://github.com/juju/juju) team where I got to explore distributed systems at scale as well. Check out my [homelab page](https://home.dericilab.live/homelab/) to see some cool stuff I've built and learned since then. I left to complete my doctoral studies, which I successfully defended in late 2025.
-
-<br>
-
-🛠️ My tech skills include: C++, Go, Python, Racket/Scheme, LLVM, Kubernetes, Docker, LXD, Sql/NoSql and more.
-
-✨ I'm now open to new opportunities! Check out my [links](https://dericilab.live/), or jump straight to my [resume](https://github.com/cderici/resume/releases/download/latest-pdf/pl.pdf) to see more! <br><br>
+✨ I'm open to new opportunities! Check out my [links](https://dericilab.live/), or jump straight to my [resume](https://github.com/cderici/resume/releases/download/latest-pdf/pl.pdf) to see more! <br><br>
 
 📊 Weekly development data straight from my IDEs (neovim, obsidian, vscode):
 
