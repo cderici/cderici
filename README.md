@@ -11,10 +11,10 @@
 <!--START_SECTION:waka-->
 
 ```go
-From: 14 February 2026 - To: 21 February 2026
+From: 15 February 2026 - To: 22 February 2026
 
-Obsidian   3 hrs 11 mins         ████████████████████████░   96.46 %
-Bash       7 mins                █░░░░░░░░░░░░░░░░░░░░░░░░   03.53 %
+Obsidian   2 hrs 54 mins         ████████████████████████░   96.11 %
+Bash       7 mins                █░░░░░░░░░░░░░░░░░░░░░░░░   03.88 %
 Git        0 secs                ░░░░░░░░░░░░░░░░░░░░░░░░░   00.01 %
 ```
 
