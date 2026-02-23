@@ -11,11 +11,12 @@
 <!--START_SECTION:waka-->
 
 ```go
-From: 15 February 2026 - To: 22 February 2026
+From: 16 February 2026 - To: 23 February 2026
 
-Obsidian   2 hrs 54 mins         ████████████████████████░   96.11 %
-Bash       7 mins                █░░░░░░░░░░░░░░░░░░░░░░░░   03.88 %
-Git        0 secs                ░░░░░░░░░░░░░░░░░░░░░░░░░   00.01 %
+Obsidian   1 hr 22 mins          ████████████████████░░░░░   80.24 %
+TeX        13 mins               ███▒░░░░░░░░░░░░░░░░░░░░░   12.96 %
+Bash       7 mins                █▓░░░░░░░░░░░░░░░░░░░░░░░   06.79 %
+Git        0 secs                ░░░░░░░░░░░░░░░░░░░░░░░░░   00.02 %
 ```
 
 <!--END_SECTION:waka-->
