@@ -11,7 +11,7 @@
 <!--START_SECTION:waka-->
 
 ```go
-From: 28 February 2026 - To: 07 March 2026
+From: 01 March 2026 - To: 08 March 2026
 
 Writing/Taking Notes   4 hrs 9 mins          ██████████████████░░░░░░░   71.55 %
 C                      48 mins               ███▒░░░░░░░░░░░░░░░░░░░░░   13.99 %
