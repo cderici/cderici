@@ -22,7 +22,7 @@ Markdown               1 min                 ░░░░░░░░░░░�
 
 <!--END_SECTION:waka-->
 
-[![wakatime](https://wakatime.com/badge/user/afc0c5fb-feac-4830-8928-4c313fba9d55.svg)](https://wakatime.com/@afc0c5fb-feac-4830-8928-4c313fba9d55)
+[![wakatime](https://wakatime.com/badge/user/afc0c5fb-feac-4830-8928-4c313fba9d55.svg)](https://wakatime.com/@afc0c5fb-feac-4830-8928-4c313fba9d55) <sup>(since Mar 5, 2025)</sup>
 
 
 <!-- 
