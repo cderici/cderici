@@ -11,10 +11,10 @@
 <!--START_SECTION:waka-->
 
 ```go
-From: 19 March 2026 - To: 26 March 2026
+From: 20 March 2026 - To: 27 March 2026
 
-TeX                    2 hrs 30 mins         ███████████▒░░░░░░░░░░░░░   45.48 %
-Writing/Taking Notes   1 hr 6 mins           █████░░░░░░░░░░░░░░░░░░░░   20.00 %
+TeX                    2 hrs 30 mins         ███████████▒░░░░░░░░░░░░░   45.50 %
+Writing/Taking Notes   1 hr 5 mins           █████░░░░░░░░░░░░░░░░░░░░   19.98 %
 C                      1 hr 2 mins           ████▓░░░░░░░░░░░░░░░░░░░░   19.02 %
 C++                    32 mins               ██▒░░░░░░░░░░░░░░░░░░░░░░   09.88 %
 Other                  15 mins               █▒░░░░░░░░░░░░░░░░░░░░░░░   04.79 %
