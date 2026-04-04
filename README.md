@@ -11,14 +11,15 @@
 <!--START_SECTION:waka-->
 
 ```go
-From: 27 March 2026 - To: 03 April 2026
+From: 28 March 2026 - To: 04 April 2026
 
-Writing/Taking Notes   8 hrs 42 mins         ███████████████████▒░░░░░   77.55 %
-TeX                    1 hr 48 mins          ████░░░░░░░░░░░░░░░░░░░░░   16.13 %
-Makefile               25 mins               █░░░░░░░░░░░░░░░░░░░░░░░░   03.83 %
-YAML                   14 mins               ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.17 %
-Markdown               1 min                 ░░░░░░░░░░░░░░░░░░░░░░░░░   00.26 %
-Nunjucks               0 secs                ░░░░░░░░░░░░░░░░░░░░░░░░░   00.06 %
+Writing/Taking Notes   10 hrs 53 mins        ████████████████████▒░░░░   80.72 %
+TeX                    1 hr 48 mins          ███▒░░░░░░░░░░░░░░░░░░░░░   13.43 %
+Makefile               25 mins               ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.19 %
+YAML                   14 mins               ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.81 %
+C++                    4 mins                ░░░░░░░░░░░░░░░░░░░░░░░░░   00.59 %
+Markdown               1 min                 ░░░░░░░░░░░░░░░░░░░░░░░░░   00.22 %
+Nunjucks               0 secs                ░░░░░░░░░░░░░░░░░░░░░░░░░   00.05 %
 ```
 
 <!--END_SECTION:waka-->
