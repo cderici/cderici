@@ -11,11 +11,12 @@
 <!--START_SECTION:waka-->
 
 ```go
-From: 01 April 2026 - To: 08 April 2026
+From: 02 April 2026 - To: 09 April 2026
 
-Writing/Taking Notes   8 hrs 15 mins         █████████████████████▓░░░   86.13 %
-Cuda                   1 hr 2 mins           ██▓░░░░░░░░░░░░░░░░░░░░░░   10.90 %
-C++                    16 mins               ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.95 %
+Writing/Taking Notes   7 hrs 43 mins         ████████████████████░░░░░   80.02 %
+Cuda                   1 hr 29 mins          ████░░░░░░░░░░░░░░░░░░░░░   15.46 %
+C++                    16 mins               ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.93 %
+Bash                   9 mins                ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.58 %
 Markdown               0 secs                ░░░░░░░░░░░░░░░░░░░░░░░░░   00.02 %
 ```
 
