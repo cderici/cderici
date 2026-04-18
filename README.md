@@ -11,11 +11,11 @@
 <!--START_SECTION:waka-->
 
 ```go
-From: 10 April 2026 - To: 17 April 2026
+From: 11 April 2026 - To: 18 April 2026
 
-Writing/Taking Notes   2 hrs 8 mins          ████████████▒░░░░░░░░░░░░   49.32 %
-C++                    1 hr 57 mins          ███████████▒░░░░░░░░░░░░░   45.30 %
-TeX                    13 mins               █▒░░░░░░░░░░░░░░░░░░░░░░░   05.38 %
+Writing/Taking Notes   2 hrs 1 min           ██████████████████████░░░   88.17 %
+TeX                    13 mins               ██▓░░░░░░░░░░░░░░░░░░░░░░   10.13 %
+C++                    2 mins                ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.70 %
 ```
 
 <!--END_SECTION:waka-->
