@@ -11,7 +11,7 @@
 <!--START_SECTION:waka-->
 
 ```go
-From: 11 April 2026 - To: 18 April 2026
+From: 12 April 2026 - To: 19 April 2026
 
 Writing/Taking Notes   2 hrs 1 min           ██████████████████████░░░   88.17 %
 TeX                    13 mins               ██▓░░░░░░░░░░░░░░░░░░░░░░   10.13 %
