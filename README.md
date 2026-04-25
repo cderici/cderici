@@ -11,11 +11,11 @@
 <!--START_SECTION:waka-->
 
 ```go
-From: 17 April 2026 - To: 24 April 2026
+From: 18 April 2026 - To: 25 April 2026
 
-Writing/Taking Notes   10 hrs 24 mins        ██████████████████████▓░░   90.92 %
-Cuda                   51 mins               ██░░░░░░░░░░░░░░░░░░░░░░░   07.43 %
-Nunjucks               11 mins               ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.66 %
+Writing/Taking Notes   10 hrs 55 mins        ██████████████████████▓░░   91.15 %
+Cuda                   51 mins               █▓░░░░░░░░░░░░░░░░░░░░░░░   07.09 %
+Nunjucks               12 mins               ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.76 %
 ```
 
 <!--END_SECTION:waka-->
