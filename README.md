@@ -11,11 +11,16 @@
 <!--START_SECTION:waka-->
 
 ```go
-From: 18 April 2026 - To: 25 April 2026
+From: 19 April 2026 - To: 26 April 2026
 
-Writing/Taking Notes   10 hrs 55 mins        ██████████████████████▓░░   91.15 %
-Cuda                   51 mins               █▓░░░░░░░░░░░░░░░░░░░░░░░   07.09 %
-Nunjucks               12 mins               ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.76 %
+Writing/Taking Notes   11 hrs 33 mins        █████████████████████░░░░   84.50 %
+Cuda                   1 hr 8 mins           ██░░░░░░░░░░░░░░░░░░░░░░░   08.39 %
+C++                    21 mins               ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.65 %
+ptx                    13 mins               ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.64 %
+Nunjucks               12 mins               ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.54 %
+Other                  9 mins                ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.11 %
+CMake                  0 secs                ░░░░░░░░░░░░░░░░░░░░░░░░░   00.12 %
+Makefile               0 secs                ░░░░░░░░░░░░░░░░░░░░░░░░░   00.05 %
 ```
 
 <!--END_SECTION:waka-->
