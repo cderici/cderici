@@ -1,4 +1,4 @@
-👋 Hi! I'm Caner[*](https://home.dericilab.live/assets/audio/name-pronunciation.opus), a software engineer with a licence to science (PhD).
+👋 Hi! I'm Caner[*](https://home.dericilab.live/assets/audio/name-pronunciation.opus), a PhD computer scientist and a software engineer.
 
 🧙‍♂️ I like languages, optimizing compilers, fast runtimes, and smart systems. My PhD is in compilers. I also have experience in distributed orchestration at scale, and a master's degree in machine learning.
 
