@@ -11,12 +11,11 @@
 <!--START_SECTION:waka-->
 
 ```go
-From: 20 May 2026 - To: 27 May 2026
+From: 21 May 2026 - To: 28 May 2026
 
-Writing/Taking Notes   5 hrs 50 mins         ████████████████████████▓   98.68 %
-TeX                    3 mins                ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.04 %
-conf                   0 secs                ░░░░░░░░░░░░░░░░░░░░░░░░░   00.22 %
-Git                    0 secs                ░░░░░░░░░░░░░░░░░░░░░░░░░   00.06 %
+Writing/Taking Notes   4 hrs 7 mins          █████████████████████████   99.65 %
+conf                   0 secs                ░░░░░░░░░░░░░░░░░░░░░░░░░   00.31 %
+Git                    0 secs                ░░░░░░░░░░░░░░░░░░░░░░░░░   00.04 %
 ```
 
 <!--END_SECTION:waka-->
