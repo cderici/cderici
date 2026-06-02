@@ -11,10 +11,13 @@
 <!--START_SECTION:waka-->
 
 ```go
-From: 25 May 2026 - To: 01 June 2026
+From: 26 May 2026 - To: 02 June 2026
 
-Writing/Taking Notes   4 hrs 56 mins         █████████████████████████   99.77 %
-Git                    0 secs                ░░░░░░░░░░░░░░░░░░░░░░░░░   00.23 %
+Writing/Taking Notes   5 hrs 6 mins          █████████████████████▓░░░   87.28 %
+C++                    35 mins               ██▓░░░░░░░░░░░░░░░░░░░░░░   10.04 %
+CMake                  8 mins                ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.45 %
+Makefile               0 secs                ░░░░░░░░░░░░░░░░░░░░░░░░░   00.18 %
+Other                  0 secs                ░░░░░░░░░░░░░░░░░░░░░░░░░   00.04 %
 ```
 
 <!--END_SECTION:waka-->
