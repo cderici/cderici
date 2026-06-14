@@ -11,10 +11,10 @@
 <!--START_SECTION:waka-->
 
 ```go
-From: 06 June 2026 - To: 13 June 2026
+From: 07 June 2026 - To: 14 June 2026
 
-Writing/Taking Notes   6 hrs 31 mins         ████████████████████████▒   96.80 %
-TeX                    12 mins               ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.01 %
+Writing/Taking Notes   6 hrs 32 mins         ████████████████████████▒   96.81 %
+TeX                    12 mins               ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.00 %
 Nunjucks               0 secs                ░░░░░░░░░░░░░░░░░░░░░░░░░   00.08 %
 JSON                   0 secs                ░░░░░░░░░░░░░░░░░░░░░░░░░   00.07 %
 Git                    0 secs                ░░░░░░░░░░░░░░░░░░░░░░░░░   00.04 %
