@@ -11,11 +11,11 @@
 <!--START_SECTION:waka-->
 
 ```go
-From: 13 June 2026 - To: 20 June 2026
+From: 14 June 2026 - To: 21 June 2026
 
-Writing/Taking Notes   3 hrs 58 mins         ███████████████████████▓░   95.22 %
-YAML                   6 mins                ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.57 %
-TeX                    5 mins                ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.14 %
+Writing/Taking Notes   3 hrs 57 mins         ███████████████████████▓░   95.20 %
+YAML                   6 mins                ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.58 %
+TeX                    5 mins                ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.15 %
 JSON                   0 secs                ░░░░░░░░░░░░░░░░░░░░░░░░░   00.07 %
 ```
 
