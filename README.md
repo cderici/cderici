@@ -11,13 +11,10 @@
 <!--START_SECTION:waka-->
 
 ```go
-From: 26 June 2026 - To: 03 July 2026
+From: 27 June 2026 - To: 04 July 2026
 
-Writing/Taking Notes   5 hrs 11 mins         ██████████████▒░░░░░░░░░░   56.78 %
-C++                    2 hrs 43 mins         ███████▒░░░░░░░░░░░░░░░░░   29.70 %
-TeX                    1 hr 11 mins          ███▒░░░░░░░░░░░░░░░░░░░░░   13.07 %
-Bash                   2 mins                ░░░░░░░░░░░░░░░░░░░░░░░░░   00.37 %
-Makefile               0 secs                ░░░░░░░░░░░░░░░░░░░░░░░░░   00.06 %
+Writing/Taking Notes   5 hrs                 ████████████████▒░░░░░░░░   64.79 %
+C++                    2 hrs 43 mins         ████████▓░░░░░░░░░░░░░░░░   35.19 %
 bigfile                0 secs                ░░░░░░░░░░░░░░░░░░░░░░░░░   00.02 %
 ```
 
