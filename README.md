@@ -11,10 +11,10 @@
 <!--START_SECTION:waka-->
 
 ```go
-From: 29 June 2026 - To: 06 July 2026
+From: 30 June 2026 - To: 07 July 2026
 
-Writing/Taking Notes   8 hrs 23 mins         ██████████████████████▓░░   91.11 %
-C++                    49 mins               ██▒░░░░░░░░░░░░░░░░░░░░░░   08.89 %
+Writing/Taking Notes   8 hrs 38 mins         █████████████████████▓░░░   86.83 %
+C++                    1 hr 18 mins          ███▒░░░░░░░░░░░░░░░░░░░░░   13.17 %
 ```
 
 <!--END_SECTION:waka-->
