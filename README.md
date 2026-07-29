@@ -1,10 +1,10 @@
-👋 Hi! I'm Caner[*](https://home.dericilab.live/assets/audio/name-pronunciation.opus), I'm a computer scientist and a software engineer.
+👋 Hi! I'm Caner[*](https://home.dericilab.live/assets/audio/name-pronunciation.opus), I'm a computer scientist, compiler engineer and programming languages researcher.
 
-🧙‍♂️ I like languages, optimizing compilers, fast runtimes, and smart systems. My PhD is in compilers. I have experience in distributed orchestration at scale, and I have a master's degree in machine learning.
+🧙‍♂️ I like languages, optimizing compilers, fast runtimes, and smart systems. My PhD is in compilers. I have experience in both compilers and distributed orchestration at scale, and I have a master's degree in machine learning.
 
-🛠️ I speak C++, Python, Go, Racket, and some more languages. I compute on mostly CPU, but also on GPU (cuda, ptx), on containers (lxd, docker) and cloud as well (kubernetes). 
+🛠️ I speak C++ (STL, LLVM, Clang, MLIR), Python, Go, Racket, and some more languages. I compute on mostly CPU, but also on GPU (cuda, ptx), on containers (lxd, docker) and cloud as well (kubernetes). 
 
-✨ I'm looking for new opportunities! Check out my [links](https://dericilab.live/), or jump straight to my [resume](https://github.com/cderici/resume/releases/download/latest-pdf/pl.pdf) to see more! <br><br>
+✨ More info at [dericilab.live](https://dericilab.live/) & my [resume](https://github.com/cderici/resume/releases/download/latest-pdf/pl.pdf). <br><br>
 
 📊 Weekly development data straight from my IDEs (neovim, obsidian, vscode):
 
