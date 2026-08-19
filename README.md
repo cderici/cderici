@@ -11,9 +11,12 @@
 <!--START_SECTION:waka-->
 
 ```go
-From: 11 August 2026 - To: 18 August 2026
+From: 12 August 2026 - To: 19 August 2026
 
-Writing/Taking Notes   1 hr 2 mins           █████████████████████████   100.00 %
+Writing/Taking Notes   1 hr 27 mins          ██████████████████████▓░░   90.71 %
+Lua                    3 mins                █░░░░░░░░░░░░░░░░░░░░░░░░   03.80 %
+JSON                   3 mins                █░░░░░░░░░░░░░░░░░░░░░░░░   03.38 %
+Other                  2 mins                ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.11 %
 ```
 
 <!--END_SECTION:waka-->
