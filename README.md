@@ -11,7 +11,7 @@
 <!--START_SECTION:waka-->
 
 ```go
-From: 26 August 2026 - To: 02 September 2026
+From: 27 August 2026 - To: 03 September 2026
 
 Writing/Taking Notes   1 hr 36 mins          ████████████████████▓░░░░   82.90 %
 TeX                    19 mins               ████▒░░░░░░░░░░░░░░░░░░░░   17.10 %
