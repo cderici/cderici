@@ -11,9 +11,10 @@
 <!--START_SECTION:waka-->
 
 ```go
-From: 08 September 2026 - To: 15 September 2026
+From: 09 September 2026 - To: 16 September 2026
 
-Writing/Taking Notes   1 min                 █████████████████████████   100.00 %
+Writing/Taking Notes   2 hrs 7 mins          █████████████████████▓░░░   86.07 %
+Other                  20 mins               ███▒░░░░░░░░░░░░░░░░░░░░░   13.93 %
 ```
 
 <!--END_SECTION:waka-->
