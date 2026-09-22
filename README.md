@@ -11,13 +11,14 @@
 <!--START_SECTION:waka-->
 
 ```go
-From: 14 September 2026 - To: 21 September 2026
+From: 15 September 2026 - To: 22 September 2026
 
-Writing/Taking Notes   7 hrs 15 mins         ██████████████████████▓░░   90.99 %
-Other                  38 mins               ██░░░░░░░░░░░░░░░░░░░░░░░   07.99 %
-Bash                   2 mins                ░░░░░░░░░░░░░░░░░░░░░░░░░   00.60 %
-Lua                    1 min                 ░░░░░░░░░░░░░░░░░░░░░░░░░   00.40 %
-INI                    0 secs                ░░░░░░░░░░░░░░░░░░░░░░░░░   00.02 %
+Writing/Taking Notes   9 hrs 42 mins         ███████████████████████▒░   92.69 %
+Other                  38 mins               █▓░░░░░░░░░░░░░░░░░░░░░░░   06.08 %
+Bash                   2 mins                ░░░░░░░░░░░░░░░░░░░░░░░░░   00.46 %
+Lean4                  2 mins                ░░░░░░░░░░░░░░░░░░░░░░░░░   00.45 %
+Lua                    1 min                 ░░░░░░░░░░░░░░░░░░░░░░░░░   00.31 %
+INI                    0 secs                ░░░░░░░░░░░░░░░░░░░░░░░░░   00.01 %
 ```
 
 <!--END_SECTION:waka-->
