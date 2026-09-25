@@ -1,8 +1,8 @@
-👋 Hi! I'm Caner[*](https://home.dericilab.live/assets/audio/name-pronunciation.opus), I'm a computer scientist, compiler engineer and programming languages researcher.
+👋 Hi! I'm Caner[*](https://home.dericilab.live/assets/audio/name-pronunciation.opus), I'm a computer scientist, compiler engineer and a programming languages researcher. I currently work at Amazon/AWS - Automated Reasoning Group (Strata team) as an Applied Scientist.
 
-🧙‍♂️ I like languages, optimizing compilers, fast runtimes, and smart systems. My PhD is in compilers. I have experience in both compilers and distributed orchestration at scale, and I have a master's degree in machine learning.
+🧙‍♂️ I like languages, formal methods, optimizing compilers, fast runtimes, and smart systems. My PhD is in programming languages and compilers. I have experience in both compilers and distributed orchestration at scale, and I have a master's degree in machine learning.
 
-🛠️ I speak C++ (STL, LLVM, Clang, MLIR), Python, Go, Racket, and some more languages. I compute on mostly CPU, but also on GPU (cuda, ptx), on containers (lxd, docker) and cloud as well (kubernetes). 
+🛠️ I speak C++ (STL, LLVM, Clang, MLIR), Python, Racket, Lean, Go, and some more languages. I compute on mostly CPU, but also on GPU (cuda, ptx), on containers (lxd, docker) and cloud as well (kubernetes).
 
 ✨ More info at [dericilab.live](https://dericilab.live/) & my [resume](https://github.com/cderici/resume/releases/download/latest-pdf/pl.pdf). <br><br>
 
