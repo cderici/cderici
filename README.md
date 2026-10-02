@@ -11,18 +11,13 @@
 <!--START_SECTION:waka-->
 
 ```go
-From: 24 September 2026 - To: 01 October 2026
+From: 25 September 2026 - To: 02 October 2026
 
-Writing/Taking Notes   10 hrs 42 mins        █████████████████░░░░░░░░   68.63 %
-Lean4                  1 hr 49 mins          ███░░░░░░░░░░░░░░░░░░░░░░   11.70 %
-Other                  1 hr 37 mins          ██▓░░░░░░░░░░░░░░░░░░░░░░   10.47 %
-Markdown               48 mins               █▒░░░░░░░░░░░░░░░░░░░░░░░   05.21 %
-tmux                   10 mins               ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.14 %
-Bash                   10 mins               ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.11 %
-Python                 9 mins                ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.99 %
-SSH Config             4 mins                ░░░░░░░░░░░░░░░░░░░░░░░░░   00.44 %
-sshconfig              1 min                 ░░░░░░░░░░░░░░░░░░░░░░░░░   00.19 %
-Git Config             1 min                 ░░░░░░░░░░░░░░░░░░░░░░░░░   00.12 %
+Writing/Taking Notes   10 hrs 20 mins        ████████████████████▒░░░░   81.58 %
+Other                  1 hr 17 mins          ██▓░░░░░░░░░░░░░░░░░░░░░░   10.21 %
+Lean4                  34 mins               █░░░░░░░░░░░░░░░░░░░░░░░░   04.56 %
+Markdown               25 mins               █░░░░░░░░░░░░░░░░░░░░░░░░   03.39 %
+Bash                   2 mins                ░░░░░░░░░░░░░░░░░░░░░░░░░   00.27 %
 ```
 
 <!--END_SECTION:waka-->
