@@ -11,13 +11,16 @@
 <!--START_SECTION:waka-->
 
 ```go
-From: 27 September 2026 - To: 04 October 2026
+From: 29 September 2026 - To: 06 October 2026
 
-Writing/Taking Notes   9 hrs 13 mins         ████████████████▒░░░░░░░░   65.70 %
-Other                  2 hrs 21 mins         ████▒░░░░░░░░░░░░░░░░░░░░   16.82 %
-Markdown               1 hr 47 mins          ███▒░░░░░░░░░░░░░░░░░░░░░   12.79 %
-Lean4                  38 mins               █░░░░░░░░░░░░░░░░░░░░░░░░   04.62 %
-Bash                   0 secs                ░░░░░░░░░░░░░░░░░░░░░░░░░   00.07 %
+Writing/Taking Notes   8 hrs 14 mins         ███████████▒░░░░░░░░░░░░░   45.71 %
+Markdown               3 hrs 12 mins         ████▒░░░░░░░░░░░░░░░░░░░░   17.82 %
+Other                  3 hrs                 ████▒░░░░░░░░░░░░░░░░░░░░   16.68 %
+Lean4                  2 hrs 50 mins         ████░░░░░░░░░░░░░░░░░░░░░   15.78 %
+Text                   29 mins               ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.69 %
+Python                 11 mins               ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.06 %
+Bash                   1 min                 ░░░░░░░░░░░░░░░░░░░░░░░░░   00.18 %
+JSON                   0 secs                ░░░░░░░░░░░░░░░░░░░░░░░░░   00.08 %
 ```
 
 <!--END_SECTION:waka-->
