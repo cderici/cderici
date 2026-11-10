@@ -11,15 +11,11 @@
 <!--START_SECTION:waka-->
 
 ```go
-From: 02 November 2026 - To: 09 November 2026
+From: 03 November 2026 - To: 10 November 2026
 
-Python                 1 hr 45 mins          ███████░░░░░░░░░░░░░░░░░░   27.42 %
-Text                   1 hr 19 mins          █████░░░░░░░░░░░░░░░░░░░░   20.56 %
-Lean4                  1 hr 10 mins          ████▓░░░░░░░░░░░░░░░░░░░░   18.18 %
-Markdown               1 hr 7 mins           ████▒░░░░░░░░░░░░░░░░░░░░   17.50 %
-Writing/Taking Notes   35 mins               ██▒░░░░░░░░░░░░░░░░░░░░░░   09.22 %
-Other                  27 mins               █▓░░░░░░░░░░░░░░░░░░░░░░░   07.04 %
-systemd                0 secs                ░░░░░░░░░░░░░░░░░░░░░░░░░   00.06 %
+JavaScript             45 mins               ██████████░░░░░░░░░░░░░░░   40.42 %
+Other                  34 mins               ███████▓░░░░░░░░░░░░░░░░░   30.99 %
+Writing/Taking Notes   31 mins               ███████░░░░░░░░░░░░░░░░░░   28.59 %
 ```
 
 <!--END_SECTION:waka-->
