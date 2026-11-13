@@ -11,18 +11,18 @@
 <!--START_SECTION:waka-->
 
 ```go
-From: 05 November 2026 - To: 12 November 2026
+From: 06 November 2026 - To: 13 November 2026
 
-Lean4                  39 hrs 56 mins        ███████████░░░░░░░░░░░░░░   43.67 %
-Markdown               34 hrs 2 mins         █████████▒░░░░░░░░░░░░░░░   37.22 %
-Diff                   4 hrs 45 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.20 %
-Text                   4 hrs 44 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.18 %
-Python                 3 hrs 30 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.83 %
-Other                  3 hrs 15 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.57 %
-Writing/Taking Notes   34 mins               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.62 %
-Bash                   25 mins               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.47 %
-JavaScript             8 mins                ░░░░░░░░░░░░░░░░░░░░░░░░░   00.16 %
-systemd                3 mins                ░░░░░░░░░░░░░░░░░░░░░░░░░   00.07 %
+Lean4                  43 hrs 15 mins        ██████████▓░░░░░░░░░░░░░░   42.37 %
+Markdown               40 hrs 11 mins        ██████████░░░░░░░░░░░░░░░   39.37 %
+Python                 5 hrs 2 mins          █▒░░░░░░░░░░░░░░░░░░░░░░░   04.94 %
+Other                  4 hrs 52 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   04.77 %
+Text                   4 hrs 47 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   04.69 %
+Diff                   2 hrs 13 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.18 %
+Writing/Taking Notes   33 mins               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.55 %
+Research/writing       31 mins               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.51 %
+Bash                   26 mins               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.43 %
+JavaScript             8 mins                ░░░░░░░░░░░░░░░░░░░░░░░░░   00.14 %
 ```
 
 <!--END_SECTION:waka-->
